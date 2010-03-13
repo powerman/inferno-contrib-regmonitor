@@ -1,0 +1,18 @@
+<../../mkconfig
+
+TARG=\
+	regmonitor.dis\
+
+SYSMODULES=\
+	sys.m\
+	registries.m\
+
+MODULES=\
+	../../../../contrib/logger/module/logger.m\
+	../../../../contrib/hashtable/module/hashtable.m\
+	../../module/regmonitor.m\
+
+DISBIN=../../dis/lib
+
+<$ROOT/mkfiles/mkdis
+
