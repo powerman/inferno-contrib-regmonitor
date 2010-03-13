@@ -1,6 +1,6 @@
 RegMonitor: module
 {
-	PATH: con "regmonitor.dis";
+	PATH: con "/contrib/regmonitor/dis/lib/regmonitor.dis";
 
 	ADD, DEL, MOD: con iota;
 
