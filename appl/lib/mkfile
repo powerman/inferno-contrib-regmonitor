@@ -8,8 +8,8 @@ SYSMODULES=\
 	registries.m\
 
 MODULES=\
-	../../../../contrib/logger/module/logger.m\
-	../../../../contrib/hashtable/module/hashtable.m\
+	../../../logger/module/logger.m\
+	../../../hashtable/module/hashtable.m\
 	../../module/regmonitor.m\
 
 DISBIN=../../dis/lib

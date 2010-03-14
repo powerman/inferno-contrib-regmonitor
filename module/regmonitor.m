@@ -1,6 +1,6 @@
 RegMonitor: module
 {
-	PATH: con "/contrib/regmonitor/dis/lib/regmonitor.dis";
+	PATH: con "/opt/powerman/regmonitor/dis/lib/regmonitor.dis";
 
 	ADD, DEL, MOD: con iota;
 
