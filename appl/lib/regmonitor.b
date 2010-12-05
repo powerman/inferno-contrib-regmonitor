@@ -5,7 +5,7 @@ include "sys.m";
 	sprint: import sys;
 include "../../../logger/module/logger.m";
 	logger: Logger;
-	log, ERR, WARN, INFO, DEBUG, DUMP: import logger;
+	log, ERR, WARN, NOTICE, INFO, DEBUG: import logger;
 include "registries.m";
 	registries: Registries;
 	Registry, Service: import registries;
