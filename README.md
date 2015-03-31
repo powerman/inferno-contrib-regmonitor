@@ -4,8 +4,9 @@ This limbo module will monitor for added/changed/removed registry(4)
 services with given attributes and send notification about these events by
 channel.
 
-Best used with http://code.google.com/p/inferno-contrib-retrymount/ for
+Best used with https://github.com/powerman/inferno-contrib-retrymount for
 mounting remote registry. :)
+
 
 # Install
 
